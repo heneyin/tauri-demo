@@ -74,4 +74,4 @@ jobs:
           args: ${{ matrix.settings.args }}
       - name: show uanme
         run: |
-          uname -a
+          uname -atauri info
